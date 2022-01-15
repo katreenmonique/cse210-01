@@ -8,8 +8,8 @@ namespace TicTacToe
             string[,] Board = new string[3, 3];
             int Rows = 3;
             int Columns = 3;
-            string Player1 = ".";
-            string Player2 = ".";
+            string Player1 = ". ";
+            string Player2 = ". ";
 
             SetupGame(Board, Rows, Columns, ref Player1, ref Player2);
             PrintBoard(Board, Rows, Columns);
@@ -27,7 +27,7 @@ namespace TicTacToe
             {
                 for (var j = 0; j < columns; j++)
                 {
-                    board[i, j] = ".";
+                    board[i, j] = "| ";
                 }
             }
 

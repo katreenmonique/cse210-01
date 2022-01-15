@@ -1,0 +1,15 @@
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\bin\Debug\net6.0\Prove01.exe
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\bin\Debug\net6.0\Prove01.deps.json
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\bin\Debug\net6.0\Prove01.runtimeconfig.json
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\bin\Debug\net6.0\Prove01.dll
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\bin\Debug\net6.0\ref\Prove01.dll
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\bin\Debug\net6.0\Prove01.pdb
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.csproj.AssemblyReference.cache
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.AssemblyInfoInputs.cache
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.AssemblyInfo.cs
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.csproj.CoreCompileInputs.cache
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.dll
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\ref\Prove01.dll
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.pdb
+C:\Users\xxjac\OneDrive\Desktop\CSE_210_Prove\Prove01\obj\Debug\net6.0\Prove01.genruntimeconfig.cache
